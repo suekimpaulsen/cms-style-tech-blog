@@ -15,7 +15,7 @@ SO THAT I can publish articles, blog posts, and my thoughts and opinions
 - Once the user is logged in, logout button will appear instead of login 
 - User can create a new post as well as view all the posts they created by clicking dashboard on top
 - User can leave a comment
-- User can edit a post
+- User can edit/delete a post
 
 
 ## Features:
